@@ -1,0 +1,4 @@
+Collections needed for Currency Converter App:
+
+1. ConversionHistory
+2. CurrencyRates
