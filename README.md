@@ -1,5 +1,9 @@
 # Mobile-Assignment1b
+The link to the used API: https://free.currencyconverterapi.com
 
+The link to check the status of the server: https://www.currencyconverterapi.com/server-status
+
+Gallery
 The purpose of the currency converter app is to give consumers an easy-to-use and effective solution for converting currencies on their Android smartphones. An outline of the application and the technologies needed to implement it is provided below:
 
 1. Currency Conversion: The app's main feature lets users enter a sum in one currency and see how much it would be in another. To assure correctness, this entails retrieving the most recent currency rates from an external API.
